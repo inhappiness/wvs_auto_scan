@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# @author Jiangwang
 import requests
 import xlrd
 import xlwt
